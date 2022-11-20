@@ -5,7 +5,7 @@ export default function Footer () {
   return (
     <div className="footer-container">
         <div className='footer-parent'>
-            <img src={require('../../../assets/Home/shape1.png')}/>
+            <img src={require('../../../assets/Home/shape.png')}/>
         </div>
     </div>
   )
